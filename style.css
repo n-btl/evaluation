@@ -1,0 +1,5 @@
+{
+zone.innerHTML="Veuillez entrer votre nom";
+zone.style.color = "blue";
+zone.style.fontSize = "40px";
+zone.style.center = "center";}
